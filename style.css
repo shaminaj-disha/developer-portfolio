@@ -4,6 +4,7 @@ body{
 }
 section{
     display: flex;
+    margin-bottom: 150px;
 }
 h1{
     font-size: 50px;
@@ -14,8 +15,13 @@ h1 span{
 h2{
     font-size: 40px;
 }
+p{
+    color: dimgray;
+    text-align: justify;
+}
 .half-width{
-    width: 50%;
+    width: 40%;
+    margin-left: 5%;
     padding-left: 2%;
 }
 .half-width img{
@@ -34,4 +40,9 @@ h2{
 .top-banner{
     background-image: url(images/top-banner.png);
     background-repeat: no-repeat;
+}
+.dream-big{
+    background-image: url(images/dream-bg.png);
+    background-repeat: no-repeat;
+    background-position: right;
 }
