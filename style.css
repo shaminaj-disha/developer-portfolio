@@ -63,7 +63,7 @@ p{
 }
 #full-stack{
     border-left: 7px solid;
-    border-image: linear-gradient(180deg, lightsalmon, tomato);
+    border-image: linear-gradient(180deg, lightsalmon, brown);
     border-image-slice: 1;
 }
 #baby-developer{
@@ -72,7 +72,8 @@ p{
     border-image-slice: 1;
 }
 #experience-allignment{
-    margin-left: 65px;
+    text-align: center;
+    color: brown;
 }
 footer p{
     text-align: center;
